@@ -1,0 +1,1361 @@
+[
+  {
+    "id": 1,
+    "make": "Suzuki",
+    "model": "Bandit 650",
+    "year": 1990,
+    "color": "#2e904d",
+    "thumbnail": "http://dummyimage.com/174x138.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 2,
+    "make": "Kawasaki",
+    "model": "GPZ 600",
+    "year": 2005,
+    "color": "#f16882",
+    "thumbnail": "http://dummyimage.com/216x187.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 3,
+    "make": "Honda",
+    "model": "C50",
+    "year": 2008,
+    "color": "#c88c8f",
+    "thumbnail": "http://dummyimage.com/185x198.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 4,
+    "make": "Kawasaki",
+    "model": "350 S",
+    "year": 1996,
+    "color": "#1cbd27",
+    "thumbnail": "http://dummyimage.com/209x230.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 5,
+    "make": "Suzuki",
+    "model": "Boulevard M109",
+    "year": 2005,
+    "color": "#d773b6",
+    "thumbnail": "http://dummyimage.com/158x159.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 6,
+    "make": "Kawasaki",
+    "model": "ER-5",
+    "year": 2003,
+    "color": "#b650ae",
+    "thumbnail": "http://dummyimage.com/132x133.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 7,
+    "make": "Suzuki",
+    "model": "Boulevard C50",
+    "year": 1988,
+    "color": "#150d9c",
+    "thumbnail": "http://dummyimage.com/148x163.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 8,
+    "make": "Honda",
+    "model": "Aviator",
+    "year": 1997,
+    "color": "#b842b4",
+    "thumbnail": "http://dummyimage.com/119x165.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 9,
+    "make": "Honda",
+    "model": "CB 1000",
+    "year": 2000,
+    "color": "#5a1705",
+    "thumbnail": "http://dummyimage.com/239x220.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 10,
+    "make": "Yamaha",
+    "model": "250 Racer",
+    "year": 1993,
+    "color": "#a46b1a",
+    "thumbnail": "http://dummyimage.com/196x141.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 11,
+    "make": "Suzuki",
+    "model": "250 SB",
+    "year": 1985,
+    "color": "#0a2a13",
+    "thumbnail": "http://dummyimage.com/163x181.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 12,
+    "make": "Yamaha",
+    "model": "BWs 125",
+    "year": 2001,
+    "color": "#1368ed",
+    "thumbnail": "http://dummyimage.com/182x244.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 13,
+    "make": "Kawasaki",
+    "model": "Concours 14",
+    "year": 2010,
+    "color": "#6fc896",
+    "thumbnail": "http://dummyimage.com/178x191.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 14,
+    "make": "Kawasaki",
+    "model": "250 F",
+    "year": 2009,
+    "color": "#7fdc03",
+    "thumbnail": "http://dummyimage.com/135x248.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 15,
+    "make": "Suzuki",
+    "model": "Boulevard C109",
+    "year": 1993,
+    "color": "#278f99",
+    "thumbnail": "http://dummyimage.com/143x205.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 16,
+    "make": "Yamaha",
+    "model": "Alba 110",
+    "year": 2011,
+    "color": "#7d48ff",
+    "thumbnail": "http://dummyimage.com/175x127.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 17,
+    "make": "Kawasaki",
+    "model": "GPZ 1000",
+    "year": 2012,
+    "color": "#97ca63",
+    "thumbnail": "http://dummyimage.com/219x178.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 18,
+    "make": "Kawasaki",
+    "model": "EX 500",
+    "year": 2010,
+    "color": "#e2f785",
+    "thumbnail": "http://dummyimage.com/153x227.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 19,
+    "make": "Kawasaki",
+    "model": "GT 250 R",
+    "year": 1995,
+    "color": "#b488f2",
+    "thumbnail": "http://dummyimage.com/226x177.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 20,
+    "make": "Kawasaki",
+    "model": "Brute Force 650",
+    "year": 2009,
+    "color": "#74f83f",
+    "thumbnail": "http://dummyimage.com/249x174.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 21,
+    "make": "Yamaha",
+    "model": "Byson FI",
+    "year": 1991,
+    "color": "#160ddf",
+    "thumbnail": "http://dummyimage.com/128x102.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 22,
+    "make": "Suzuki",
+    "model": "AP 50",
+    "year": 1992,
+    "color": "#8ffb1c",
+    "thumbnail": "http://dummyimage.com/145x141.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 23,
+    "make": "Yamaha",
+    "model": "CP250 Maxam",
+    "year": 1996,
+    "color": "#a114e8",
+    "thumbnail": "http://dummyimage.com/123x230.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 24,
+    "make": "Suzuki",
+    "model": "Boulevard 400",
+    "year": 2006,
+    "color": "#a78aa5",
+    "thumbnail": "http://dummyimage.com/194x157.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 25,
+    "make": "Honda",
+    "model": "C90 K3",
+    "year": 2000,
+    "color": "#ad1220",
+    "thumbnail": "http://dummyimage.com/157x189.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 26,
+    "make": "Kawasaki",
+    "model": "125",
+    "year": 2009,
+    "color": "#344f5e",
+    "thumbnail": "http://dummyimage.com/125x239.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 27,
+    "make": "Honda",
+    "model": "Aviator",
+    "year": 2004,
+    "color": "#318bde",
+    "thumbnail": "http://dummyimage.com/137x110.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 28,
+    "make": "Suzuki",
+    "model": "Bandit 600",
+    "year": 2002,
+    "color": "#42694c",
+    "thumbnail": "http://dummyimage.com/189x170.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 29,
+    "make": "Suzuki",
+    "model": "AX4",
+    "year": 2011,
+    "color": "#128566",
+    "thumbnail": "http://dummyimage.com/129x138.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 30,
+    "make": "Yamaha",
+    "model": "3CT Concept",
+    "year": 2000,
+    "color": "#f257f9",
+    "thumbnail": "http://dummyimage.com/134x201.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 31,
+    "make": "Suzuki",
+    "model": "AN 400",
+    "year": 2008,
+    "color": "#eacf8f",
+    "thumbnail": "http://dummyimage.com/233x178.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 32,
+    "make": "Kawasaki",
+    "model": "FX 400 R",
+    "year": 1990,
+    "color": "#083daa",
+    "thumbnail": "http://dummyimage.com/142x143.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 33,
+    "make": "Suzuki",
+    "model": "B-King",
+    "year": 2003,
+    "color": "#6e9d1e",
+    "thumbnail": "http://dummyimage.com/240x234.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 34,
+    "make": "Suzuki",
+    "model": "Best 125",
+    "year": 2003,
+    "color": "#16dbef",
+    "thumbnail": "http://dummyimage.com/103x152.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 35,
+    "make": "Kawasaki",
+    "model": "G5 100",
+    "year": 2002,
+    "color": "#b4e09b",
+    "thumbnail": "http://dummyimage.com/217x193.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 36,
+    "make": "Kawasaki",
+    "model": "900 Z",
+    "year": 2004,
+    "color": "#e3035a",
+    "thumbnail": "http://dummyimage.com/247x165.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 37,
+    "make": "Kawasaki",
+    "model": "Brute Force 750",
+    "year": 1993,
+    "color": "#2ad3fb",
+    "thumbnail": "http://dummyimage.com/212x160.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 38,
+    "make": "Suzuki",
+    "model": "Bandit 1200",
+    "year": 2008,
+    "color": "#6534d6",
+    "thumbnail": "http://dummyimage.com/218x194.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 39,
+    "make": "Yamaha",
+    "model": "Bruin",
+    "year": 2009,
+    "color": "#5a600d",
+    "thumbnail": "http://dummyimage.com/240x142.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 40,
+    "make": "Kawasaki",
+    "model": "GPZ 400",
+    "year": 1995,
+    "color": "#cb3aa2",
+    "thumbnail": "http://dummyimage.com/239x114.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 41,
+    "make": "Kawasaki",
+    "model": "620 Duke",
+    "year": 1994,
+    "color": "#4abf21",
+    "thumbnail": "http://dummyimage.com/244x167.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 42,
+    "make": "Suzuki",
+    "model": "Bandit 400",
+    "year": 1994,
+    "color": "#151180",
+    "thumbnail": "http://dummyimage.com/135x235.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 43,
+    "make": "Suzuki",
+    "model": "AN 250 Burgman",
+    "year": 1994,
+    "color": "#168f96",
+    "thumbnail": "http://dummyimage.com/227x225.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 44,
+    "make": "Honda",
+    "model": "BeAT",
+    "year": 2006,
+    "color": "#39abd6",
+    "thumbnail": "http://dummyimage.com/178x196.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 45,
+    "make": "Yamaha",
+    "model": "AS",
+    "year": 2006,
+    "color": "#1d453d",
+    "thumbnail": "http://dummyimage.com/230x200.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 46,
+    "make": "Kawasaki",
+    "model": "GPX 500 R",
+    "year": 1984,
+    "color": "#351327",
+    "thumbnail": "http://dummyimage.com/172x220.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 47,
+    "make": "Kawasaki",
+    "model": "Eliminator 600",
+    "year": 2008,
+    "color": "#d05bc2",
+    "thumbnail": "http://dummyimage.com/179x151.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 48,
+    "make": "Kawasaki",
+    "model": "Athlete PRO",
+    "year": 1993,
+    "color": "#8dedd4",
+    "thumbnail": "http://dummyimage.com/170x129.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 49,
+    "make": "Yamaha",
+    "model": "125 MX",
+    "year": 2011,
+    "color": "#3e9146",
+    "thumbnail": "http://dummyimage.com/201x191.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 50,
+    "make": "Kawasaki",
+    "model": "Coyote MB1-A",
+    "year": 2008,
+    "color": "#433d69",
+    "thumbnail": "http://dummyimage.com/101x211.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 51,
+    "make": "Honda",
+    "model": "AG-XR",
+    "year": 1996,
+    "color": "#6296c7",
+    "thumbnail": "http://dummyimage.com/170x220.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 52,
+    "make": "Kawasaki",
+    "model": "500 H",
+    "year": 2008,
+    "color": "#0e417e",
+    "thumbnail": "http://dummyimage.com/154x171.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 53,
+    "make": "Yamaha",
+    "model": "Aerox 155",
+    "year": 1999,
+    "color": "#0acdc3",
+    "thumbnail": "http://dummyimage.com/207x122.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 54,
+    "make": "Kawasaki",
+    "model": "GPX 600",
+    "year": 1997,
+    "color": "#e4d4c8",
+    "thumbnail": "http://dummyimage.com/213x165.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 55,
+    "make": "Honda",
+    "model": "AG-XR",
+    "year": 2005,
+    "color": "#df833f",
+    "thumbnail": "http://dummyimage.com/235x169.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 56,
+    "make": "Kawasaki",
+    "model": "A7 Avenger",
+    "year": 2007,
+    "color": "#e58051",
+    "thumbnail": "http://dummyimage.com/144x236.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 57,
+    "make": "Honda",
+    "model": "@ 125",
+    "year": 2007,
+    "color": "#aee578",
+    "thumbnail": "http://dummyimage.com/153x108.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 58,
+    "make": "Honda",
+    "model": "ANF 125 Innova",
+    "year": 1993,
+    "color": "#92afe3",
+    "thumbnail": "http://dummyimage.com/217x165.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 59,
+    "make": "Kawasaki",
+    "model": "ER-4n",
+    "year": 1996,
+    "color": "#8c14b2",
+    "thumbnail": "http://dummyimage.com/249x189.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 60,
+    "make": "Yamaha",
+    "model": "AG 200",
+    "year": 1989,
+    "color": "#2fa2ec",
+    "thumbnail": "http://dummyimage.com/194x160.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 61,
+    "make": "Yamaha",
+    "model": "Axis Treet",
+    "year": 1998,
+    "color": "#6fa21b",
+    "thumbnail": "http://dummyimage.com/199x105.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 62,
+    "make": "Honda",
+    "model": "Africa Twin",
+    "year": 1965,
+    "color": "#2e409a",
+    "thumbnail": "http://dummyimage.com/136x210.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 63,
+    "make": "Honda",
+    "model": "Ape 100",
+    "year": 2008,
+    "color": "#959d43",
+    "thumbnail": "http://dummyimage.com/228x249.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 64,
+    "make": "Yamaha",
+    "model": "Big Bear 250",
+    "year": 1989,
+    "color": "#36c69e",
+    "thumbnail": "http://dummyimage.com/178x134.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 65,
+    "make": "Suzuki",
+    "model": "Bandit 1250",
+    "year": 1996,
+    "color": "#127624",
+    "thumbnail": "http://dummyimage.com/134x225.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 66,
+    "make": "Honda",
+    "model": "250 Rebel",
+    "year": 1999,
+    "color": "#da2804",
+    "thumbnail": "http://dummyimage.com/124x163.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 67,
+    "make": "Honda",
+    "model": "CA Rebel",
+    "year": 1990,
+    "color": "#0142b0",
+    "thumbnail": "http://dummyimage.com/134x121.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 68,
+    "make": "Honda",
+    "model": "Big Red",
+    "year": 1985,
+    "color": "#786bba",
+    "thumbnail": "http://dummyimage.com/228x164.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 69,
+    "make": "Kawasaki",
+    "model": "650 D - 650 SR",
+    "year": 2008,
+    "color": "#9ec70e",
+    "thumbnail": "http://dummyimage.com/184x228.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 70,
+    "make": "Kawasaki",
+    "model": "GS 500 E",
+    "year": 1986,
+    "color": "#7c921e",
+    "thumbnail": "http://dummyimage.com/214x118.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 71,
+    "make": "Kawasaki",
+    "model": "GPZ 550",
+    "year": 2008,
+    "color": "#e3c98d",
+    "thumbnail": "http://dummyimage.com/209x237.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 72,
+    "make": "Yamaha",
+    "model": "Banshee YFZ350",
+    "year": 2005,
+    "color": "#a121e0",
+    "thumbnail": "http://dummyimage.com/207x175.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 73,
+    "make": "Suzuki",
+    "model": "Boost King",
+    "year": 2003,
+    "color": "#280065",
+    "thumbnail": "http://dummyimage.com/130x235.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 74,
+    "make": "Honda",
+    "model": "CB 1",
+    "year": 1995,
+    "color": "#62b893",
+    "thumbnail": "http://dummyimage.com/192x165.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 75,
+    "make": "Honda",
+    "model": "Activa",
+    "year": 2011,
+    "color": "#455244",
+    "thumbnail": "http://dummyimage.com/219x122.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 76,
+    "make": "Kawasaki",
+    "model": "D-Tracker X",
+    "year": 2004,
+    "color": "#46b742",
+    "thumbnail": "http://dummyimage.com/145x107.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 77,
+    "make": "Kawasaki",
+    "model": "CSR 1000",
+    "year": 1989,
+    "color": "#d8686e",
+    "thumbnail": "http://dummyimage.com/173x107.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 78,
+    "make": "Yamaha",
+    "model": "C3",
+    "year": 1987,
+    "color": "#100d0c",
+    "thumbnail": "http://dummyimage.com/172x191.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 79,
+    "make": "Yamaha",
+    "model": "Crux",
+    "year": 2011,
+    "color": "#58f073",
+    "thumbnail": "http://dummyimage.com/160x237.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 80,
+    "make": "Kawasaki",
+    "model": "250 S",
+    "year": 2009,
+    "color": "#fbd962",
+    "thumbnail": "http://dummyimage.com/207x105.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 81,
+    "make": "Honda",
+    "model": "CB 100",
+    "year": 1999,
+    "color": "#e729e5",
+    "thumbnail": "http://dummyimage.com/134x179.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 82,
+    "make": "Honda",
+    "model": "919",
+    "year": 1985,
+    "color": "#d7f4df",
+    "thumbnail": "http://dummyimage.com/233x241.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 83,
+    "make": "Kawasaki",
+    "model": "GPZ 750",
+    "year": 2002,
+    "color": "#adee7f",
+    "thumbnail": "http://dummyimage.com/180x109.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 84,
+    "make": "Kawasaki",
+    "model": "D-Tracker",
+    "year": 2010,
+    "color": "#649c97",
+    "thumbnail": "http://dummyimage.com/247x206.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 85,
+    "make": "Kawasaki",
+    "model": "F-11 250B",
+    "year": 1990,
+    "color": "#c6c8ee",
+    "thumbnail": "http://dummyimage.com/240x246.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 86,
+    "make": "Kawasaki",
+    "model": "250 TR",
+    "year": 1997,
+    "color": "#9231a2",
+    "thumbnail": "http://dummyimage.com/187x242.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 87,
+    "make": "Suzuki",
+    "model": "Access",
+    "year": 2004,
+    "color": "#492460",
+    "thumbnail": "http://dummyimage.com/148x179.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 88,
+    "make": "Honda",
+    "model": "400X",
+    "year": 1987,
+    "color": "#dcc5e4",
+    "thumbnail": "http://dummyimage.com/165x199.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 89,
+    "make": "Kawasaki",
+    "model": "Concours 1000",
+    "year": 2012,
+    "color": "#adb907",
+    "thumbnail": "http://dummyimage.com/167x199.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 90,
+    "make": "Suzuki",
+    "model": "Address",
+    "year": 1984,
+    "color": "#597fa3",
+    "thumbnail": "http://dummyimage.com/140x120.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 91,
+    "make": "Kawasaki",
+    "model": "GT 125 R",
+    "year": 2006,
+    "color": "#e3a819",
+    "thumbnail": "http://dummyimage.com/234x238.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 92,
+    "make": "Kawasaki",
+    "model": "A1 Samurai",
+    "year": 2003,
+    "color": "#83dc95",
+    "thumbnail": "http://dummyimage.com/219x159.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 93,
+    "make": "Honda",
+    "model": "@ 150",
+    "year": 1999,
+    "color": "#6040e2",
+    "thumbnail": "http://dummyimage.com/193x250.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 94,
+    "make": "Suzuki",
+    "model": "AN 650 Burgman",
+    "year": 1990,
+    "color": "#c6c1f9",
+    "thumbnail": "http://dummyimage.com/244x194.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 95,
+    "make": "Honda",
+    "model": "Africa Twin",
+    "year": 1965,
+    "color": "#676526",
+    "thumbnail": "http://dummyimage.com/138x186.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 96,
+    "make": "Kawasaki",
+    "model": "GPZ 305",
+    "year": 2002,
+    "color": "#5a710c",
+    "thumbnail": "http://dummyimage.com/133x241.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 97,
+    "make": "Honda",
+    "model": "C 70",
+    "year": 1997,
+    "color": "#245115",
+    "thumbnail": "http://dummyimage.com/131x217.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 98,
+    "make": "Yamaha",
+    "model": "BWs 50",
+    "year": 2002,
+    "color": "#ea4f14",
+    "thumbnail": "http://dummyimage.com/149x164.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 99,
+    "make": "Yamaha",
+    "model": "Big Bear 400",
+    "year": 1992,
+    "color": "#dc1028",
+    "thumbnail": "http://dummyimage.com/170x172.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 100,
+    "make": "Yamaha",
+    "model": "Alpha",
+    "year": 2009,
+    "color": "#afa905",
+    "thumbnail": "http://dummyimage.com/210x218.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 101,
+    "make": "Yamaha",
+    "model": "135 LC Super Sport",
+    "year": 2010,
+    "color": "#4bb9fc",
+    "thumbnail": "http://dummyimage.com/230x182.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 102,
+    "make": "Honda",
+    "model": "ADV150",
+    "year": 2012,
+    "color": "#438e46",
+    "thumbnail": "http://dummyimage.com/104x236.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 103,
+    "make": "Yamaha",
+    "model": "AG 100",
+    "year": 1983,
+    "color": "#9d990e",
+    "thumbnail": "http://dummyimage.com/177x150.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 104,
+    "make": "Kawasaki",
+    "model": "GPZ 900",
+    "year": 2008,
+    "color": "#86044d",
+    "thumbnail": "http://dummyimage.com/131x173.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 105,
+    "make": "Honda",
+    "model": "CB 1100",
+    "year": 2002,
+    "color": "#f973e1",
+    "thumbnail": "http://dummyimage.com/141x191.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 106,
+    "make": "Kawasaki",
+    "model": "GPZ 1100",
+    "year": 1989,
+    "color": "#839940",
+    "thumbnail": "http://dummyimage.com/209x126.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 107,
+    "make": "Suzuki",
+    "model": "Boulevard M1500",
+    "year": 2005,
+    "color": "#91b665",
+    "thumbnail": "http://dummyimage.com/158x227.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 108,
+    "make": "Suzuki",
+    "model": "A 80",
+    "year": 1994,
+    "color": "#b62839",
+    "thumbnail": "http://dummyimage.com/184x197.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 109,
+    "make": "Kawasaki",
+    "model": "Brute Force 300",
+    "year": 1999,
+    "color": "#fe0ff6",
+    "thumbnail": "http://dummyimage.com/164x226.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 110,
+    "make": "Kawasaki",
+    "model": "ER-6f",
+    "year": 1997,
+    "color": "#e9e687",
+    "thumbnail": "http://dummyimage.com/155x189.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 111,
+    "make": "Yamaha",
+    "model": "Bolt",
+    "year": 1997,
+    "color": "#1e0cb3",
+    "thumbnail": "http://dummyimage.com/188x135.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 112,
+    "make": "Honda",
+    "model": "Ape 50",
+    "year": 2004,
+    "color": "#f2fad2",
+    "thumbnail": "http://dummyimage.com/239x111.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 113,
+    "make": "Kawasaki",
+    "model": "ER-6n",
+    "year": 2009,
+    "color": "#634c4e",
+    "thumbnail": "http://dummyimage.com/187x173.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 114,
+    "make": "Kawasaki",
+    "model": "EL 250",
+    "year": 1998,
+    "color": "#21ab6b",
+    "thumbnail": "http://dummyimage.com/156x101.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 115,
+    "make": "Yamaha",
+    "model": "Aerox 50",
+    "year": 2001,
+    "color": "#0d6eb1",
+    "thumbnail": "http://dummyimage.com/188x201.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 116,
+    "make": "Honda",
+    "model": "Benly 110",
+    "year": 2004,
+    "color": "#bfd287",
+    "thumbnail": "http://dummyimage.com/201x250.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 117,
+    "make": "Kawasaki",
+    "model": "Estrella",
+    "year": 2003,
+    "color": "#028277",
+    "thumbnail": "http://dummyimage.com/107x143.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 118,
+    "make": "Kawasaki",
+    "model": "GTR 1000",
+    "year": 1977,
+    "color": "#fc2e6e",
+    "thumbnail": "http://dummyimage.com/130x243.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 119,
+    "make": "Yamaha",
+    "model": "Black Max",
+    "year": 1974,
+    "color": "#1889a6",
+    "thumbnail": "http://dummyimage.com/143x126.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 120,
+    "make": "Kawasaki",
+    "model": "EL 125 Eliminator",
+    "year": 1995,
+    "color": "#454552",
+    "thumbnail": "http://dummyimage.com/220x117.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 121,
+    "make": "Kawasaki",
+    "model": "Concours 14",
+    "year": 2010,
+    "color": "#a9f8f7",
+    "thumbnail": "http://dummyimage.com/221x130.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 122,
+    "make": "Kawasaki",
+    "model": "EN 500",
+    "year": 1996,
+    "color": "#36e1a9",
+    "thumbnail": "http://dummyimage.com/197x227.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 123,
+    "make": "Suzuki",
+    "model": "Boulevard M50",
+    "year": 2010,
+    "color": "#19b4b3",
+    "thumbnail": "http://dummyimage.com/101x229.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 124,
+    "make": "Kawasaki",
+    "model": "GPZ 250 Belt Drive",
+    "year": 2006,
+    "color": "#d86c88",
+    "thumbnail": "http://dummyimage.com/101x239.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 125,
+    "make": "Kawasaki",
+    "model": "EN 400 Vulcan",
+    "year": 2005,
+    "color": "#3078de",
+    "thumbnail": "http://dummyimage.com/235x138.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 126,
+    "make": "Honda",
+    "model": "Bulldog",
+    "year": 1997,
+    "color": "#582417",
+    "thumbnail": "http://dummyimage.com/119x191.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 127,
+    "make": "Honda",
+    "model": "Big Ruckus",
+    "year": 2002,
+    "color": "#83395d",
+    "thumbnail": "http://dummyimage.com/164x157.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 128,
+    "make": "Kawasaki",
+    "model": "G3SS",
+    "year": 1988,
+    "color": "#800461",
+    "thumbnail": "http://dummyimage.com/101x153.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 129,
+    "make": "Suzuki",
+    "model": "AN 125",
+    "year": 1993,
+    "color": "#f637b4",
+    "thumbnail": "http://dummyimage.com/249x238.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 130,
+    "make": "Kawasaki",
+    "model": "Dominar 400",
+    "year": 1984,
+    "color": "#319e62",
+    "thumbnail": "http://dummyimage.com/180x237.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 131,
+    "make": "Yamaha",
+    "model": "Crypton S",
+    "year": 2011,
+    "color": "#524e18",
+    "thumbnail": "http://dummyimage.com/170x127.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 132,
+    "make": "Kawasaki",
+    "model": "GTO 125",
+    "year": 2000,
+    "color": "#19ba1c",
+    "thumbnail": "http://dummyimage.com/231x172.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 133,
+    "make": "Yamaha",
+    "model": "BT 1100 Bulldog",
+    "year": 2003,
+    "color": "#ce13e8",
+    "thumbnail": "http://dummyimage.com/169x108.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 134,
+    "make": "Yamaha",
+    "model": "CA50M",
+    "year": 1994,
+    "color": "#6cfb50",
+    "thumbnail": "http://dummyimage.com/223x183.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 135,
+    "make": "Suzuki",
+    "model": "Birdie",
+    "year": 1993,
+    "color": "#38b238",
+    "thumbnail": "http://dummyimage.com/102x225.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 136,
+    "make": "Yamaha",
+    "model": "AG 125",
+    "year": 1999,
+    "color": "#5d6018",
+    "thumbnail": "http://dummyimage.com/205x133.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 137,
+    "make": "Kawasaki",
+    "model": "Bayou 250",
+    "year": 2005,
+    "color": "#c82168",
+    "thumbnail": "http://dummyimage.com/244x206.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 138,
+    "make": "Honda",
+    "model": "Benly 50",
+    "year": 2011,
+    "color": "#e80554",
+    "thumbnail": "http://dummyimage.com/203x130.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 139,
+    "make": "Honda",
+    "model": "CB 110",
+    "year": 1986,
+    "color": "#dcfe19",
+    "thumbnail": "http://dummyimage.com/137x189.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 140,
+    "make": "Honda",
+    "model": "599",
+    "year": 1992,
+    "color": "#2fde4b",
+    "thumbnail": "http://dummyimage.com/224x186.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 141,
+    "make": "Honda",
+    "model": "AX-1 Sports Traverse",
+    "year": 2008,
+    "color": "#365f3d",
+    "thumbnail": "http://dummyimage.com/196x217.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 142,
+    "make": "Suzuki",
+    "model": "Boulevard C90",
+    "year": 2011,
+    "color": "#dbe6de",
+    "thumbnail": "http://dummyimage.com/189x101.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 143,
+    "make": "Suzuki",
+    "model": "Axelo 125",
+    "year": 1994,
+    "color": "#e08e98",
+    "thumbnail": "http://dummyimage.com/167x243.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 144,
+    "make": "Kawasaki",
+    "model": "350 F",
+    "year": 2010,
+    "color": "#bea604",
+    "thumbnail": "http://dummyimage.com/248x132.png/5fa2dd/ffffff",
+    "starred": false
+  },
+  {
+    "id": 145,
+    "make": "Yamaha",
+    "model": "AG 175",
+    "year": 2010,
+    "color": "#c0162a",
+    "thumbnail": "http://dummyimage.com/211x113.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 146,
+    "make": "Kawasaki",
+    "model": "GPX 750",
+    "year": 1989,
+    "color": "#1c0892",
+    "thumbnail": "http://dummyimage.com/153x196.png/dddddd/000000",
+    "starred": false
+  },
+  {
+    "id": 147,
+    "make": "Kawasaki",
+    "model": "GPZ 500",
+    "year": 2002,
+    "color": "#3d01bf",
+    "thumbnail": "http://dummyimage.com/203x155.png/ff4444/ffffff",
+    "starred": false
+  },
+  {
+    "id": 148,
+    "make": "Suzuki",
+    "model": "AX4",
+    "year": 1995,
+    "color": "#fd3b53",
+    "thumbnail": "http://dummyimage.com/141x214.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 149,
+    "make": "Kawasaki",
+    "model": "100",
+    "year": 1993,
+    "color": "#48b3d6",
+    "thumbnail": "http://dummyimage.com/149x185.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 150,
+    "make": "Kawasaki",
+    "model": "750 H",
+    "year": 1996,
+    "color": "#d08505",
+    "thumbnail": "http://dummyimage.com/112x178.png/cc0000/ffffff",
+    "starred": false
+  },
+  {
+    "id": 151,
+    "make": "Kawasaki",
+    "model": "400 S 3 Mach II",
+    "year": 2004,
+    "color": "#f98a77",
+    "thumbnail": "http://dummyimage.com/159x221.png/dddddd/000000",
+    "starred": false
+  }
+]

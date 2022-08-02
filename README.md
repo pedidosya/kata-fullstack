@@ -1,73 +1,182 @@
-<h1 align="center">
-  <a href="https://github.com/pedidosya">
-  	<img src="https://img.pystatic.com/pedidosya-logo.svg" alt="PedidosYa" width="200">
-  </a>
-  <br>
-  <br>
-  Project Name
-  <br>
-</h1>
-<h4 align="center">Add a description here about your project, explain very briefly what it does.</h4>
-<p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#dependencies">Dependencies</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#documentation">Documentation</a> •
-  <a href="#faq">FAQ</a>
-</p>
+# Full Stack Kata
 
-## Key Features
+- This project uses Node v16
 
-* Solves this problem
-* Solve this another problem
-* Avoid of having some manual process
+## Starting the project
 
-## Dependencies
+1. Install dependencies
 
-* Platform (Java/Go/Python) and version
-* External Services
-* Internal Services
-* Databases
-* Etc.
-
-## How To Use
-
-### Running the project
-
-Before running the project please ensure that all the dependencies are installed in your system. Then follow the next:
-
-1. First step, start some database
-
-    ```
-    start database command
-    ```
-
-2. Second step, run some internal dependency
-
-    ```
-    start internal dependency command
-    ```
-
-3. Run the project itself
-
-    ```
-    run the project
-    ```
-
-### Running the tests
-
-In order to run the project tests you need to execute the following command:
-
-```
-some command to test
+```bash
+npm install
 ```
 
-## Documentation
+2. Start the API
 
-* [Link to a confluence doc](https://www.example.com)
-* [Link to another doc](https://www.example.com)
+```bash
+npm run start-be
+```
 
-## FAQ
+3. Start the dev server for the React frontend
 
-* If you want to add new features to this project please [see the contribution guide](.github/CONTRIBUTING.md)
-* Questions?, <a href="mailto:someone@pedidosya.com?Subject=Question about Project" target="_blank">write here</a>
+```bash
+npm run start
+```
+
+4. Running the tests in watch mode
+
+```bash
+npm run test
+```
+
+# API Reference
+
+Some considerations
+
+- The API may fail anytime
+- The API may take up to 3 seconds to respond
+
+## Cars
+
+### [GET] /api/cars
+
+> Returns a list of cars
+
+```json
+[
+  {
+    "id": 1,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": 1990,
+    "color": "#2e904d",
+    "thumbnail": "http://dummyimage.com/174x138.png/cc0000/ffffff",
+    "starred": false,
+  },
+  {...}
+  {
+    "id": 25,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "year": 2005,
+    "color": "#f16882",
+    "thumbnail": "http://dummyimage.com/216x187.png/dddddd/000000",
+    "starred": true,
+  },
+];
+```
+
+### [GET] /api/cars/:carId
+
+> Returns a car details
+
+```json
+{
+  "id": 123,
+  "make": "Jeep",
+  "model": "Compass",
+  "year": 2010,
+  "color": "#19b4b3",
+  "thumbnail": "http://dummyimage.com/101x229.png/5fa2dd/ffffff",
+  "starred": false
+}
+```
+
+### [PATCH] /api/cars/:carId
+
+> Return the modified car
+
+Body
+
+```javascript
+{
+  starred: true | false;
+}
+```
+
+## Restaurants
+
+### [GET] /api/restaurants
+
+> Returns a list of restaurants with delivery area info
+
+```json
+[
+  {
+    "id": 136539,
+    "name": "Pizzería Squzi",
+    "allCategories": "Empanadas,Pizzas,Tartas,Pastas",
+    "ratingScore": 4.42,
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false,
+    "logo": "pizzeria-squzi.jpg",
+    "opened": true,
+  },
+  {...},
+  {
+    "id": 106513,
+    "name": "El Noble Barrio Norte 2",
+    "allCategories": "Pizzas,Empanadas,Tartas,Postres,Cafetería",
+    "ratingScore": 4.54,
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false,
+    "logo": "el-noble-barrio-norte-2.jpg",
+    "opened": false,
+  },
+];
+```
+
+### [GET] /v2/api/restaurants
+
+> Returns a list of restaurants with delivery area ID
+
+```json
+[
+  {
+    "id": 136539,
+    "name": "Pizzería Squzi",
+    "allCategories": "Empanadas,Pizzas,Tartas,Pastas",
+    "ratingScore": 4.42,
+    "discount": 0,
+    "isNew": false,
+    "logo": "https://source.unsplash.com/random/?food,restaurant",
+    "opened": true,
+    "deliveryAreaId": 2
+  },
+  {...},
+  {
+    "id": 106513,
+    "name": "El Noble Barrio Norte 2",
+    "allCategories": "Pizzas,Empanadas,Tartas,Postres,Cafetería",
+    "ratingScore": 4.54,
+    "discount": 0,
+    "isNew": false,
+    "logo": "https://source.unsplash.com/random/?food,restaurant",
+    "opened": false,
+    "deliveryAreaId": 2
+  },
+];
+```
+
+### [POST] /v2/api/rest/getDeliveryAreas
+
+> Returns a list of delivery areas
+
+```json
+[
+{
+    "id": 1,
+    "shippingAmount": 68,
+    "deliveryTime": "Entre 20' y 25'"
+  },
+  {...},
+  {
+    "id": 30,
+    "shippingAmount": 32,
+    "deliveryTime": "Entre 10' y 15'"
+  }
+];
+```

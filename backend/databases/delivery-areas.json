@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "shippingAmount": 68,
+    "deliveryTime": "Entre 20' y 25'"
+  },
+  {
+    "id": 2,
+    "shippingAmount": 50,
+    "deliveryTime": "Entre 30' y 60'"
+  },
+  {
+    "id": 3,
+    "shippingAmount": 26,
+    "deliveryTime": "Entre 15' y 20'"
+  },
+  {
+    "id": 4,
+    "shippingAmount": 96,
+    "deliveryTime": "Entre 25' y 30'"
+  },
+  {
+    "id": 5,
+    "shippingAmount": 88,
+    "deliveryTime": "Entre 15' y 20'"
+  },
+  {
+    "id": 6,
+    "shippingAmount": 67,
+    "deliveryTime": "Entre 10' y 15'"
+  },
+  {
+    "id": 7,
+    "shippingAmount": 28,
+    "deliveryTime": "Entre 20' y 25'"
+  },
+  {
+    "id": 8,
+    "shippingAmount": 35,
+    "deliveryTime": "Entre 30' y 60'"
+  },
+  {
+    "id": 9,
+    "shippingAmount": 85,
+    "deliveryTime": "Entre 30' y 60'"
+  },
+  {
+    "id": 10,
+    "shippingAmount": 22,
+    "deliveryTime": "Entre 10' y 15'"
+  },
+  {
+    "id": 11,
+    "shippingAmount": 81,
+    "deliveryTime": "Entre 20' y 25'"
+  },
+  {
+    "id": 12,
+    "shippingAmount": 86,
+    "deliveryTime": "Entre 15' y 20'"
+  },
+  {
+    "id": 13,
+    "shippingAmount": 40,
+    "deliveryTime": "Entre 30' y 60'"
+  },
+  {
+    "id": 14,
+    "shippingAmount": 29,
+    "deliveryTime": "Entre 30' y 60'"
+  },
+  {
+    "id": 15,
+    "shippingAmount": 64,
+    "deliveryTime": "Entre 15' y 20'"
+  },
+  {
+    "id": 16,
+    "shippingAmount": 41,
+    "deliveryTime": "Entre 20' y 25'"
+  },
+  {
+    "id": 17,
+    "shippingAmount": 73,
+    "deliveryTime": "Entre 20' y 25'"
+  },
+  {
+    "id": 18,
+    "shippingAmount": 75,
+    "deliveryTime": "Entre 20' y 25'"
+  },
+  {
+    "id": 19,
+    "shippingAmount": 23,
+    "deliveryTime": "Entre 15' y 20'"
+  },
+  {
+    "id": 20,
+    "shippingAmount": 80,
+    "deliveryTime": "Entre 15' y 20'"
+  },
+  {
+    "id": 21,
+    "shippingAmount": 46,
+    "deliveryTime": "Entre 25' y 30'"
+  },
+  {
+    "id": 22,
+    "shippingAmount": 60,
+    "deliveryTime": "Entre 15' y 20'"
+  },
+  {
+    "id": 23,
+    "shippingAmount": 69,
+    "deliveryTime": "Entre 15' y 20'"
+  },
+  {
+    "id": 24,
+    "shippingAmount": 52,
+    "deliveryTime": "Entre 25' y 30'"
+  },
+  {
+    "id": 25,
+    "shippingAmount": 24,
+    "deliveryTime": "Entre 20' y 25'"
+  },
+  {
+    "id": 26,
+    "shippingAmount": 48,
+    "deliveryTime": "Entre 30' y 60'"
+  },
+  {
+    "id": 27,
+    "shippingAmount": 73,
+    "deliveryTime": "Entre 25' y 30'"
+  },
+  {
+    "id": 28,
+    "shippingAmount": 13,
+    "deliveryTime": "Entre 15' y 20'"
+  },
+  {
+    "id": 29,
+    "shippingAmount": 36,
+    "deliveryTime": "Entre 30' y 60'"
+  },
+  {
+    "id": 30,
+    "shippingAmount": 32,
+    "deliveryTime": "Entre 10' y 15'"
+  }
+]
